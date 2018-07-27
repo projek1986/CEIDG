@@ -19,7 +19,7 @@ function XML2Array(SimpleXMLElement $parent) {
 
 $wsdl = 'https://datastore.ceidg.gov.pl/CEIDG.DataStore/services/NewDataStoreProvider.svc?singleWsdl';
 $Province = array('mazowieckie');
-$token = 'o041TbI8xTzHzvHyy3viZeWSMV5SJ4h7TIiKT5quqAVkkgo2gTssPEk7OACZJRY3';
+$token = '';
 $MigrationDateFrom = '2017-07-04';
 $MigrationDateTo = '2017-07-24';
 $data = array(
